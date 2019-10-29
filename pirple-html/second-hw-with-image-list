@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Homework with an image</title>
+  
+  </head>
+     <body>
+      
+   <!-- homework -->
+      
+      
+      
+   <p>Channa Masala is my favourite dish to eat with chapati or rice</p>
+   <p>The list of ingredients to make chane masala are as follows</p>
+   <p>I will leave the making of rice / chapati to you</p>
+      
+   <ol> 
+     
+     <li>2 cups of chana </li>
+     <li>2 tomatoes </li>             
+     <li>2 onions </li>     
+     <li>2 cloves of garlic </li>     
+     <li>A piece of ginger  </li>     
+     <li>channa masala poweder </li>
+     <li>fourth </li>
+     
+     </ol>
+      <p> Here is the method</p>
+      <!-- unordered lists -->
+      <ul> 
+          <li>Soak the chickpeas (channa) overnight (roughly 8 hours) and then boil till they are soft </li>
+        <li>Set boiled channa aside </li>
+          <li>fry onion, ginger and garlic in a tbl. spoon of oil </li>
+          <li>Add diced tomatoes and bring  it to a  boil </li>
+          <li>Add channa masala poweder (store purchased)</li>
+        <li>Add boiled chickpeas to the pan</li>
+        <li>Boil for antoher 5-8 min till everything combines</li>
+        <li>Add salt to taste</li>    
+     </ul>
+      <ul> 
+          <li>
+            <p><em>Soak</em> the chickpeas (channa) overnight (roughly 8 hours) and then boil till they are soft</p>
+       
+      <image src="https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=150" alt="image of an indian dish"/> </li>
+        
+        
+          <li>
+            <p>This is what a complete dish looks like</p>
+       
+      <image src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450" alt="image of another indian dish"/> </li>
+        
+        
+        
+</body>
+</html>
