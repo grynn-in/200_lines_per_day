@@ -64,7 +64,19 @@
          <a href="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450"> 
            <image src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450" alt="image of another indian dish"/> 
             </a>
+
+         
+        </li>
+         
+                  <li>
+            <p>This is what a complete dish looks like</p>
+
             
+            <a href="mailto:abcd@example.com"> 
+              
+             <strong> Email me</strong>
+            </a>
+         
         </li>
        </ul>
         
