@@ -10,8 +10,10 @@
       
    <!-- homework -->
       
-      
-      
+   <p>Not interested in my recepie? 
+   <br/>
+     <strong>Go to <a href="https://www.google.com">Google.com </a></strong></p>
+       
    <p>Channa Masala is my favourite dish to eat with chapati or rice</p>
    <p>The list of ingredients to make chane masala are as follows</p>
    <p>I will leave the making of rice / chapati to you</p>
@@ -39,7 +41,9 @@
         <li>Boil for antoher 5-8 min till everything combines</li>
         <li>Add salt to taste</li>    
      </ul>
-      <ul> 
+      
+       
+       <ul> 
           <li>
             <p><em>Soak</em> the chickpeas (channa) overnight (roughly 8 hours) and then boil till they are soft</p>
        
@@ -49,7 +53,20 @@
           <li>
             <p>This is what a complete dish looks like</p>
        
-      <image src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450" alt="image of another indian dish"/> </li>
+      <image src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450" alt="image of another indian dish"/> 
+        </li>
+         
+        
+        
+          <li>
+            <p>This is what a complete dish looks like</p>
+       
+         <a href="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450"> 
+           <image src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=450" alt="image of another indian dish"/> 
+            </a>
+            
+        </li>
+       </ul>
         
         
         
